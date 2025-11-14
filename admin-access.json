@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "admins": [
+    {
+      "uid": "oWC3hqYU2kY0MrgFWAzLFobbIPT2",
+      "role": "owner",
+      "name": "Daniel Luna"
+    },
+    {
+      "email": "daniel@vortexdev.site",
+      "role": "dev"
+    },
+    {
+      "email": "qa@vetsa.software",
+      "role": "qa"
+    }
+  ]
+}
