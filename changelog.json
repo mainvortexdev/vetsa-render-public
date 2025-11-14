@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Nuevo",
+    "title": "Lanzamiento de Vetsa AIa",
+    "date": "2025-11-10",
+    "desc": "Ahora puedes hablar con nuestra IA para generar documentos."
+  },
+  {
+    "type": "Mejora",
+    "title": "Exportación a PDF más rápida",
+    "date": "2025-11-05",
+    "desc": "Optimizado el motor de renderizado de PDF en el cliente."
+  },
+  {
+    "type": "Fix",
+    "title": "Corrección en cálculo de impuestos",
+    "date": "2025-11-02",
+    "desc": "El ITBIS por línea ahora se calcula correctamente."
+  }
+]
