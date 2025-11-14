@@ -15,6 +15,6 @@
     "type": "Fix",
     "title": "Corrección en cálculo de impuestos",
     "date": "2025-11-02",
-    "desc": "El ITBIS por línea ahora se calcula correctamente."
+    "desc": "El ITBIS por línea ahora se calcula correctamente aunque hay algunos fallos."
   }
 ]
